@@ -1,0 +1,1 @@
+# Aquí se ubican todos los archivos de formato SVG.

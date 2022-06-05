@@ -1,0 +1,1 @@
+# Aquí se ubican todas las funciones utilitarias del proyecto.
